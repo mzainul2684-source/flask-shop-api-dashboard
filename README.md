@@ -167,4 +167,5 @@ Telkom University Surabaya — Teknologi Informasi
 
 ## ⭐ Repository
 
-https://github.com/mzainul2684-source/M.Zainul-mini-project-day1
+[https://github.com/mzainul2684-source/M.Zainul-mini-project-day1](https://github.com/mzainul2684-source/flask-shop-api-dashboard)
+
